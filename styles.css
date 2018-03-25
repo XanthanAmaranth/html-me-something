@@ -1,0 +1,19 @@
+main{
+    position: center;text-align: center;
+    /*right: 0px;
+    width: 300px;*/
+    border: 10px solid skyblue;
+    padding: 30px;}
+
+
+h1{color: black;
+    -webkit-text-fill-color: skyblue; 
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;font-size:50px;font-weight:bold;
+ font-family:Cursive;color:#4682b4;text-align: center}
+h2{font-family:Cursive;color:skyblue;text-align: center}
+p{font-weight: bold;font-size:18px;color:#4A4943;font-family:Garamond,serif;}
+img{height:270px;width:300px;border:1px solid #4682b4;image-orientation: center}
+p2{font-size:22px}
+#guitar{font-family:Cursive;color:red;text-align: center}
+.instrument{font-family:Cursive;color:skyblue;text-align: center}
